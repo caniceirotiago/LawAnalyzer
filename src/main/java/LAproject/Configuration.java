@@ -2,7 +2,7 @@ package LAproject;
 
 public class Configuration {
     public static final String API_URL = "https://api.openai.com/v1/chat/completions";
-    public static final String APIKey = "sk-proj-09lEsvtuz13yJpfnzzAAT3BlbkFJ4Vdg2QiKCalAodrO7ikT";
+    public static final String APIKey = "changeIt";
     public static final String APIModel = "gpt-4o";
     public static final long MIN_FILES_TO_NORMALIZE = 4;
     public static final String APIMainPrompt = "Analyze the following law text and extract all construction parameters." +
