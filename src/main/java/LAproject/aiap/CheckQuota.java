@@ -11,7 +11,7 @@ import java.time.format.DateTimeFormatter;
 
 public class CheckQuota {
     private static final String API_URL = "https://api.openai.com/v1/usage";
-    private static final String API_KEY = "sk-proj-09lEsvtuz13yJpfnzzAAT3BlbkFJ4Vdg2QiKCalAodrO7ikT";
+    private static final String API_KEY = "chang";
 
     public static String checkQuota() throws IOException {
         OkHttpClient client = new OkHttpClient();
