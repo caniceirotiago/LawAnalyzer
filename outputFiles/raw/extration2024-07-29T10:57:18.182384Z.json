@@ -1,0 +1,62 @@
+[
+  {
+    "lawName": "Allowed construction of new buildings in areas with high or very high fire risk",
+    "lawID": 1,
+    "lawParameter": false
+  },
+  {
+    "lawName": "Allowed construction of new buildings in areas with moderate fire risk",
+    "lawID": 2,
+    "lawParameter": true
+  },
+  {
+    "lawName": "Allowed construction of new buildings in areas with low fire risk",
+    "lawID": 3,
+    "lawParameter": true
+  },
+  {
+    "lawName": "Allowed construction of new buildings in areas with very low fire risk",
+    "lawID": 4,
+    "lawParameter": true
+  },
+  {
+    "lawName": "Minimum protection strip width for areas with forest, shrubs, or natural pastures",
+    "lawID": 5,
+    "lawParameter": 50.0
+  },
+  {
+    "lawName": "Minimum protection strip width for areas with moderate fire risk near agricultural spaces",
+    "lawID": 6,
+    "lawParameter": 20.0
+  },
+  {
+    "lawName": "Minimum protection strip width for areas with low fire risk near agricultural spaces",
+    "lawID": 7,
+    "lawParameter": 15.0
+  },
+  {
+    "lawName": "Minimum protection strip width for areas with very low fire risk near agricultural spaces",
+    "lawID": 8,
+    "lawParameter": 10.0
+  },
+  {
+    "lawName": "Protection strip measured from the outer masonry of the building",
+    "lawID": 9,
+    "lawParameter": true
+  },
+  {
+    "lawName": "Required measures to contain possible sources of ignition in the building and its accesses",
+    "lawID": 10,
+    "lawParameter": true
+  },
+  {
+    "lawName": "Required favorable opinion from CMDF",
+    "lawID": 11,
+    "lawParameter": true
+  },
+  {
+    "lawName": "Integration of primary or secondary network infrastructure, roadways, or water plans in the protection strip",
+    "lawID": 12,
+    "lawParameter": true
+  }
+]

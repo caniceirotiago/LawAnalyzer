@@ -1,0 +1,47 @@
+[
+  {
+    "lawName": "Construction allowed in areas of high and very high fire risk",
+    "lawID": 1,
+    "lawParameter": false
+  },
+  {
+    "lawName": "Minimum buffer zone for construction near forested land",
+    "lawID": 2,
+    "lawParameter": 50.0
+  },
+  {
+    "lawName": "Minimum buffer zone for construction near agricultural land (moderate fire risk)",
+    "lawID": 3,
+    "lawParameter": 20.0
+  },
+  {
+    "lawName": "Minimum buffer zone for construction near agricultural land (low fire risk)",
+    "lawID": 4,
+    "lawParameter": 15.0
+  },
+  {
+    "lawName": "Minimum buffer zone for construction near agricultural land (very low fire risk)",
+    "lawID": 5,
+    "lawParameter": 10.0
+  },
+  {
+    "lawName": "Protective buffer zone measured from exterior wall",
+    "lawID": 6,
+    "lawParameter": true
+  },
+  {
+    "lawName": "Containment measures for potential ignition sources",
+    "lawID": 7,
+    "lawParameter": true
+  },
+  {
+    "lawName": "Positive opinion from the Municipal Commission of Forest Defense (CMDF)",
+    "lawID": 8,
+    "lawParameter": true
+  },
+  {
+    "lawName": "Inclusion of primary or secondary network infrastructure in protection buffer calculation",
+    "lawID": 9,
+    "lawParameter": true
+  }
+]

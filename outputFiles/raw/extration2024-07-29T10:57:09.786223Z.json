@@ -1,0 +1,47 @@
+[
+  {
+    "lawName": "Prohibition of new building construction in high and very high fire hazard zones",
+    "lawID": 1,
+    "lawParameter": true
+  },
+  {
+    "lawName": "Minimum protection strip distance from forested, bushland or natural pasture areas",
+    "lawID": 2,
+    "lawParameter": 50.0
+  },
+  {
+    "lawName": "Minimum protection strip distance from agricultural spaces (moderate fire hazard)",
+    "lawID": 3,
+    "lawParameter": 20.0
+  },
+  {
+    "lawName": "Minimum protection strip distance from agricultural spaces (low fire hazard)",
+    "lawID": 4,
+    "lawParameter": 15.0
+  },
+  {
+    "lawName": "Minimum protection strip distance from agricultural spaces (very low fire hazard)",
+    "lawID": 5,
+    "lawParameter": 10.0
+  },
+  {
+    "lawName": "Protection strip measured from exterior masonry",
+    "lawID": 6,
+    "lawParameter": true
+  },
+  {
+    "lawName": "Adoption of fire ignition containment measures",
+    "lawID": 7,
+    "lawParameter": true
+  },
+  {
+    "lawName": "Requirement of favorable opinion from CMDF",
+    "lawID": 8,
+    "lawParameter": true
+  },
+  {
+    "lawName": "Accountability of existing road infrastructure or water bodies in protection strip distance",
+    "lawID": 9,
+    "lawParameter": true
+  }
+]

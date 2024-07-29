@@ -1,0 +1,52 @@
+[
+  {
+    "lawName": "New buildings construction allowed in high and very high fire hazard areas",
+    "lawID": 1,
+    "lawParameter": false
+  },
+  {
+    "lawName": "New buildings construction allowed in medium, low, and very low fire hazard areas",
+    "lawID": 2,
+    "lawParameter": true
+  },
+  {
+    "lawName": "Minimum distance of protection zone from the property boundary (when adjoining forest, scrubland, or natural pastures)",
+    "lawID": 3,
+    "lawParameter": 50.0
+  },
+  {
+    "lawName": "Minimum distance of protection zone from the property boundary (when adjoining agricultural land, moderate hazard)",
+    "lawID": 4,
+    "lawParameter": 20.0
+  },
+  {
+    "lawName": "Minimum distance of protection zone from the property boundary (when adjoining agricultural land, low hazard)",
+    "lawID": 5,
+    "lawParameter": 15.0
+  },
+  {
+    "lawName": "Minimum distance of protection zone from the property boundary (when adjoining agricultural land, very low hazard)",
+    "lawID": 6,
+    "lawParameter": 10.0
+  },
+  {
+    "lawName": "Protection zone distance measured from exterior wall of the building",
+    "lawID": 7,
+    "lawParameter": true
+  },
+  {
+    "lawName": "Need to adopt measures for containing potential ignition sources",
+    "lawID": 8,
+    "lawParameter": true
+  },
+  {
+    "lawName": "Existence of a favorable opinion from CMDF",
+    "lawID": 9,
+    "lawParameter": true
+  },
+  {
+    "lawName": "Integration of secondary or primary network, road infrastructure, or water plans in the protection zone when present",
+    "lawID": 10,
+    "lawParameter": true
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "lawName": "Construction allowed in high and very high fire hazard areas outside consolidated built-up areas",
+    "lawID": 1,
+    "lawParameter": false
+  },
+  {
+    "lawName": "Minimum protection strip distance from forested, bushland or natural pasture areas",
+    "lawID": 2,
+    "lawParameter": 50.0
+  },
+  {
+    "lawName": "Minimum distance of protection zone from the property boundary (when adjoining forest, scrubland, or natural pastures)",
+    "lawID": 3,
+    "lawParameter": 20.0
+  },
+  {
+    "lawName": "Construction or expansion in low fire hazard areas with protective strip distance of",
+    "lawID": 4,
+    "lawParameter": 15.0
+  },
+  {
+    "lawName": "Minimum buffer zone for construction near agricultural land (very low fire risk)",
+    "lawID": 5,
+    "lawParameter": 10.0
+  },
+  {
+    "lawName": "Protective buffer zone measured from exterior wall",
+    "lawID": 6,
+    "lawParameter": true
+  },
+  {
+    "lawName": "Adoption of fire ignition containment measures",
+    "lawID": 7,
+    "lawParameter": true
+  },
+  {
+    "lawName": "Requirement of favorable opinion from CMDF",
+    "lawID": 8,
+    "lawParameter": true
+  },
+  {
+    "lawName": "Protection strip measured from the exterior wall of the building",
+    "lawID": 9,
+    "lawParameter": true
+  },
+  {
+    "lawName": "Adoption of measures to contain potential ignition sources",
+    "lawID": 10,
+    "lawParameter": true
+  },
+  {
+    "lawName": "Requirement for favorable opinion from CMDF",
+    "lawID": 11,
+    "lawParameter": true
+  },
+  {
+    "lawName": "Integration of primary or secondary network infrastructure, roadways, or water plans in the protection strip",
+    "lawID": 12,
+    "lawParameter": true
+  }
+]

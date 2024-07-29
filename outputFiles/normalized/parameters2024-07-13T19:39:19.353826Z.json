@@ -1,0 +1,62 @@
+[
+  {
+    "lawName": "New buildings construction allowed in high and very high fire hazard areas",
+    "lawID": 1,
+    "lawParameter": false
+  },
+  {
+    "lawName": "Minimum buffer zone for construction near forested land",
+    "lawID": 2,
+    "lawParameter": 50.0
+  },
+  {
+    "lawName": "Minimum distance of protection zone from the property boundary (when adjoining forest, scrubland, or natural pastures)",
+    "lawID": 3,
+    "lawParameter": 20.0
+  },
+  {
+    "lawName": "Construction or expansion in low fire hazard areas with protective strip distance of",
+    "lawID": 4,
+    "lawParameter": 15.0
+  },
+  {
+    "lawName": "Minimum buffer zone for construction near agricultural land (very low fire risk)",
+    "lawID": 5,
+    "lawParameter": 10.0
+  },
+  {
+    "lawName": "Protective buffer zone measured from exterior wall",
+    "lawID": 6,
+    "lawParameter": true
+  },
+  {
+    "lawName": "Protection zone distance measured from exterior wall of the building",
+    "lawID": 7,
+    "lawParameter": true
+  },
+  {
+    "lawName": "Need to adopt measures for containing potential ignition sources",
+    "lawID": 8,
+    "lawParameter": true
+  },
+  {
+    "lawName": "Protection strip measured from the exterior wall of the building",
+    "lawID": 9,
+    "lawParameter": true
+  },
+  {
+    "lawName": "Adoption of measures to contain potential ignition sources",
+    "lawID": 10,
+    "lawParameter": true
+  },
+  {
+    "lawName": "Requirement for favorable opinion from CMDF",
+    "lawID": 11,
+    "lawParameter": true
+  },
+  {
+    "lawName": "Secondary or primary network areas can be counted towards minimum protection strip distance",
+    "lawID": 12,
+    "lawParameter": true
+  }
+]

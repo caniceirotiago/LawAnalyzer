@@ -1,0 +1,47 @@
+[
+  {
+    "lawName": "Construction outside consolidated built-up areas in high and very high fire hazard areas",
+    "lawID": 1,
+    "lawParameter": false
+  },
+  {
+    "lawName": "Construction or expansion in medium fire hazard areas with protective strip distance of",
+    "lawID": 2,
+    "lawParameter": 50.0
+  },
+  {
+    "lawName": "Construction or expansion in moderate fire hazard areas with protective strip distance of",
+    "lawID": 3,
+    "lawParameter": 20.0
+  },
+  {
+    "lawName": "Construction or expansion in low fire hazard areas with protective strip distance of",
+    "lawID": 4,
+    "lawParameter": 15.0
+  },
+  {
+    "lawName": "Construction or expansion in very low fire hazard areas with protective strip distance of",
+    "lawID": 5,
+    "lawParameter": 10.0
+  },
+  {
+    "lawName": "Protection strip measured from the exterior masonry of the building",
+    "lawID": 6,
+    "lawParameter": true
+  },
+  {
+    "lawName": "Adoption of measures to contain potential sources of ignition",
+    "lawID": 7,
+    "lawParameter": true
+  },
+  {
+    "lawName": "Existence of favorable opinion from CMDF",
+    "lawID": 8,
+    "lawParameter": true
+  },
+  {
+    "lawName": "Counting of infrastructure areas within the required minimum distance of the protection strip",
+    "lawID": 9,
+    "lawParameter": true
+  }
+]
