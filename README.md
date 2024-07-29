@@ -8,10 +8,10 @@ The prompt is designed to accept multiple languages but generate the output in E
 Use IntelliJ or another IDE to change the configuration class directly.
 
 Configuration Class:
+<img width="889" alt="Captura de ecrã 2024-07-29, às 12 14 01" src="https://github.com/user-attachments/assets/5a3f21d3-c98d-477c-8b3a-2c09c7a92698">
 
-<img width="1071" alt="Captura de ecrã 2024-07-29, às 11 55 37" src="https://github.com/user-attachments/assets/db6a2812-2d3c-45aa-ab92-a9b38d28d8f1">
 
 
 Final Json example: 
 
-<img width="997" alt="Captura de ecrã 2024-07-29, às 11 58 56" src="https://github.com/user-attachments/assets/9645818e-dc97-465c-833d-037349b1a6a7">
+<img width="1051" alt="Captura de ecrã 2024-07-29, às 12 14 13" src="https://github.com/user-attachments/assets/54866f09-93a1-4dc5-a6e6-8f7aeb9581cd">
